@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/codeByMihaly/Node.js_practice#readme",
   "dependencies": {
-    "node": "^24.16.0"
+    "node": "^24.16.0",
+    "nodemon": "^3.1.14"
   }
 }
